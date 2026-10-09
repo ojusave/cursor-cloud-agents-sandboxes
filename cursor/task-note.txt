@@ -1,0 +1,5 @@
+Cursor checked out this task's repository inside /workspace. Treat that
+checkout as the project directory in the task below, and write the report to
+outputs/report.json inside the checkout. Commit the corrected total.mjs and
+outputs/report.json so Cursor pushes them to the run's branch.
+

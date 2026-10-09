@@ -1,0 +1,16 @@
+node_modules/
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.env.*
+*.env
+results/
+task-repo/
+agent.json
+run.json
+claims.tsv
+monitor.log
+*.log
+.DS_Store
